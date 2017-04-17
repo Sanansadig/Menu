@@ -1,0 +1,20 @@
+.center {
+    text-align: center;
+}
+
+.hund {
+    height: 500px;
+}
+
+#circle {
+    background-color: blue;
+    margin-top: 10px;
+}
+
+#circle1 {
+    background-color: blue;
+    margin-top: 200px;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 8%;
+}
